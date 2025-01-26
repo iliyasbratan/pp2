@@ -1,0 +1,50 @@
+# print(10 > 9)
+# print(10 == 9)
+# print(10 < 9)
+
+# a = 200
+# b = 33
+
+# if b > a:
+#   print("b is greater than a")
+# else:
+#   print("b is not greater than a")
+
+# print(bool("Hello"))
+# print(bool(15))
+
+# bool("abc")
+# bool(123) bool
+# bool(["iliyas", "bratan", "krasavchik"])
+
+# print((6 + 3) - (6 + 3)) operator
+
+# mylist = ['Iliyas', 'bratan', 'krasavchik']
+# print(mylist[1])
+
+# thistuple = ("apple", "banana", "cherry")
+# print(thistuple)
+
+# thisset = {"apple", "banana", "cherry", "apple"}  curly brackets and duplicates are ignored
+# print(thisset)
+
+# thisdict = {
+#   "brand": "VAZ",
+#   "model": "21099",
+#   "year": 2003
+# }
+# print(thisdict)
+
+
+# a = 33
+# b = 200
+# if b > a:
+# print("Iliyas ne krasavchik")  you will get an error
+
+# i = 1
+# while i < 6:
+#   print("Iliyas sila")
+#   i += 1
+
+# for x in "Iliyas":
+#   print(x)
